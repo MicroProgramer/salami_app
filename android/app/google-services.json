@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836859430187",
+    "project_id": "salami-app-cfa46",
+    "storage_bucket": "salami-app-cfa46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836859430187:android:0b1709335fd9076d9b716e",
+        "android_client_info": {
+          "package_name": "com.example.salami_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836859430187-sfu0grt9kt1mmkeg2tlrg419oc081lp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyLjJpOnvJX0XG7V6VQnZf2sXVsUt5tko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836859430187-sfu0grt9kt1mmkeg2tlrg419oc081lp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
